@@ -4,13 +4,13 @@ MovieLens 25M movie ratings. Stable benchmark dataset. 25 million ratings and on
 https://grouplens.org/datasets/movielens/25m/
 
 # Target:
-Classification: Rating Prediction
+Classification: Rating Prediction.
 
 # Methods:
-Random Forest
-SVM
-Naive Bayes
-MLP
+Random Forest,
+SVM,
+Naive Bayes,
+MLP.
 
 # PairPlot After LDA
 ![alt text](https://github.com/DamienCg/MovieLens-25M-D.-Classification-/blob/main/Figure_1.png?raw=true)
