@@ -9,8 +9,7 @@ Classification: Rating Prediction.
 # Methods:
 Random Forest,
 SVM,
-Naive Bayes,
-MLP.
+Naive Bayes
 
 # PairPlot After LDA
 ![alt text](https://github.com/DamienCg/MovieLens-25M-D.-Classification-/blob/main/Figure_1.png?raw=true)
