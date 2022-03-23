@@ -12,8 +12,11 @@ SVM,
 Naive Bayes
 
 # PairPlot After LDA
-![alt text](https://github.com/DamienCg/MovieLens-25M-D.-Classification-/blob/main/Figure_1.png?raw=true)
+![alt text](https://github.com/DamienCg/MovieLens-25M-D.-Classification-/blob/main/img/Figure_1.png?raw=true)
 
 # Confusion matrix Naive bayes
-![alt text](https://github.com/DamienCg/MovieLens-25M-D.-Classification-/blob/main/nb2.png?raw=true)
+![alt text](https://github.com/DamienCg/MovieLens-25M-D.-Classification-/blob/main/img/nb2.png?raw=true)
+
+# Random Forest report
+![alt text](https://github.com/DamienCg/MovieLens-25M-D.-Classification-/blob/main/img/randomforest.png)
 
