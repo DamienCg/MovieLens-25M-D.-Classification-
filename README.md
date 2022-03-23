@@ -6,6 +6,12 @@ https://grouplens.org/datasets/movielens/25m/
 # Target:
 Classification: Rating Prediction.
 
+# Author:
+Damien. C
+
+# Problem:
+Strongly Unbalanced dataset, Using: imblearn.pipeline and Cross-Validation
+
 # Methods:
 Random Forest,
 SVM,
